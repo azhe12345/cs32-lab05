@@ -1,3 +1,5 @@
+//Hongtao Li, 7747389
+
 #include "Student.h"
 #include <sstream>
 #include <string>
